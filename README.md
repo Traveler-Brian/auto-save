@@ -7,6 +7,7 @@
 
 ### 下載
 如需下載繁體中文版，請造訪 [https://github.com/Traveler-Brian/auto-save/tree/master/downloads](https://github.com/Traveler-Brian/auto-save/tree/master/downloads)
+> 注意：為確保使用繁體中文作為主要語言且非Unicode編碼為Big5的電腦能正常執行 `build.bat`，本翻譯版本已完全轉為 Big5 編碼。
 
 ---
 
