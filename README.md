@@ -5,6 +5,11 @@
 
 ---
 
+### 下載
+如需下載繁體中文版，請造訪 [https://github.com/Traveler-Brian/auto-save/tree/master/downloads](https://github.com/Traveler-Brian/auto-save/tree/master/downloads)
+
+---
+
 原項目：Ayachigin @ [https://github.com/ayachigin/auto-save](https://github.com/ayachigin/auto-save)
 
 繁體中文翻譯：Traveler-Brian @ [https://github.com/Traveler-Brian/auto-save](https://github.com/Traveler-Brian/auto-save)
