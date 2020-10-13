@@ -1,4 +1,4 @@
-;スタートアップに登録
-FileCreateShortcut, %A_ScriptDir%\お絵かき自動保存.exe, %A_Startup%\お絵かき自動保存.lnk
+;????????ｵn?
+FileCreateShortcut, %A_ScriptDir%\ﾃｸｵeｦﾛｰﾊｦsﾀﾉSAIｳﾆ･etaｪｩ.exe, %A_Startup%\ﾃｸｵeｦﾛｰﾊｦsﾀﾉSAIｳﾆ･etaｪｩ.lnk
 
-MsgBox, お絵かき自動保存をスタートアップに登録しました。
+MsgBox, ､wｦｨ･\ｵUｶ}ｾﾛｱﾒｰﾊ｡C
